@@ -30,10 +30,9 @@ on this screen, answer the following questions.
 2. What is the location (chromosome and position) of HLA-A?
 3. How long is the gene?
 4. How many exons does HLA-A have?
-5. Out of the exons, describe the peptides any 3 exons encode. (e.g., exon 1 encodes for peptide ~BLANK~).
+5. Out of the exons, describe the peptides resulting from the 2nd, 3rd and 4th exons of HLA-A. (e.g., exon 2 encodes for peptide ~BLANK~).
 6. What important roles do HLA-A play? **Note:** If you find that this page does not provide enough information
 on the HLA-A gene, google to find more information.
-7. Name two diseases associated with this gene. Explain briefly what these diseases are.
 
 Now, let's navigate back to the browser to explore variation of HLA-A.
 
@@ -45,16 +44,18 @@ Now, let's navigate back to the browser to explore variation of HLA-A.
 5. Scroll back up to the visualization to view HLA-A and associated SNPs.
 
 #### Questions: HLA-A SNP Density
-7. Make sure you are zoomed out so that you can see the whole HLA-A gene. In what areas to you see the highest density of SNPs?
+1. What is a SNP?
+2. What is a common SNP? A flagged SNP?
+3. Make sure you are zoomed out so that you can see the whole HLA-A gene. In what areas to you see the highest density of SNPs?
 Is there any reasoning behind this SNP distribution?
+4. Do you see a greater density in any particular exons? If so, which two exons have the highest SNP density?
+5. Navigate to [Microbiology Book][2], and find **Figure 2**. Read the caption and look at the Figure. What can you say about the exons with the greatest SNP density and the function of the domains that they produce?
 
 Now, zoom in to HLA-A and click on any SNP. This should take you to a new page.
 
 #### Questions: HLA-A SNP Search
-8. What is a SNP?
-9. What is a common SNP? A flagged SNP?
-10. Let's get more information on the specific SNP you clicked on. What is the reference allele for this SNP?
-11. What, if any, is the **Function** of this SNP? What does this function mean?
+1. Let's get more information on the specific SNP you clicked on. What is the reference allele for this SNP?
+2. What, if any, is the **Function** of this SNP? What does this function mean?
 
 ### Exploring H2A.
 Now, we will explore H2A.
@@ -72,17 +73,17 @@ on this screen, answer the following questions.
 3. How long is the gene?
 4. What important roles does H2A play? **Note:** If this page does not provide enough information
 on the H2A gene, google to find more information.
-5. Name one disease associated with this gene. Explain briefly what these diseases are.
 
 Now, let's navigate back to the browser to explore variation of H2A. Make sure that Common SNPs and Flagged SNPs are still being displayed.
 
 #### Questions: H2A SNP Density
-1. Navigate back to the Genome Browser Viewer by clicking the back arrow in your browser.
-2. Zoom out to see the whole H2A gene. In what areas, if any, to you see the highest density of SNPs?
-3. How does the SNP distribution in H2A compare to the distribution of HLA-A? Are there any reasons you can think of for why these distributions may differ?
+Navigate back to the Genome Browser Viewer by clicking the back arrow in your browser.
+1. Zoom out to see the whole H2A gene. In what areas, if any, to you see the highest density of SNPs?
+2. How does the SNP distribution in H2A compare to the distribution of HLA-A? Are there any reasons you can think of for why these distributions may differ?
 
 <Part 1 references>
 [1]: http://genome.ucsc.edu/ "UCSC Genome Browser"
+[2]: http://www.microbiologybook.org/bowers/mhc.htm "microbiologybook"
 
 <Images>
 
