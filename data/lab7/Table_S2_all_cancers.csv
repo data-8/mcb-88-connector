@@ -1,0 +1,81 @@
+Cancer Type,Feature,Measurement Unit,Non-smokers-Mean,Non-smokers-StdErr,Smokers-Mean,Smokers-StdErr,Two-sample Kolmogorov,Smirnov p-value,FDR corrected q-value
+All Cancer Types,Signature 1,Mutations per MB,0.87026,0.03833,0.83480,0.03853,7.2E-01,1.0E+00
+All Cancer Types,Signature 2,Mutations per MB,1.61634,0.18234,1.48397,0.18124,9.8E-01,1.0E+00
+All Cancer Types,Signature 4,Mutations per MB,1.06644,0.16432,1.80160,0.22840,7.1E-06,5.8E-05
+All Cancer Types,Signature 5,Mutations per MB,0.81975,0.05602,1.41460,0.09453,1.0E-07,2.1E-06
+All Cancer Types,Signature 13,Mutations per MB,0.87741,0.15493,0.78535,0.11466,9.3E-01,1.0E+00
+All Cancer Types,Signature 17,Mutations per MB,0.24524,0.07406,0.35440,0.09609,1.0E+00,1.0E+00
+All Cancer Types,Signature 18,Mutations per MB,0.23465,0.05886,0.24634,0.07514,1.0E+00,1.0E+00
+All Cancer Types,Total substitutions,Mutations per MB,6.74485,0.44790,7.78792,0.45301,4.3E-03,2.2E-02
+All Cancer Types,C>A substitutions,Mutations per MB,1.63675,0.13778,2.05431,0.18647,1.3E-03,8.9E-03
+All Cancer Types,C>G substitutions,Mutations per MB,1.19589,0.12918,1.20783,0.10071,6.9E-02,3.1E-01
+All Cancer Types,C>T substitutions,Mutations per MB,2.63663,0.19403,2.78335,0.20962,5.1E-01,1.0E+00
+All Cancer Types,T>A substitutions,Mutations per MB,0.38204,0.02763,0.52390,0.03311,4.1E-06,5.6E-05
+All Cancer Types,T>C substitutions,Mutations per MB,0.60327,0.07397,0.83963,0.05081,1.0E-07,2.1E-06
+All Cancer Types,T>G substitutions,Mutations per MB,0.29027,0.04366,0.37890,0.04833,7.1E-06,5.8E-05
+Lung Squamous,Signature 1,Mutations per MB,0.68523,0.21386,0.42718,0.02065,6.8E-01,1.0E+00
+Lung Squamous,Signature 2,Mutations per MB,1.57624,0.72763,1.29127,0.13679,7.6E-01,1.0E+00
+Lung Squamous,Signature 4,Mutations per MB,0.26428,0.12152,3.28452,0.27678,1.3E-04,3.0E-03
+Lung Squamous,Signature 5,Mutations `er MB,0.31191,0.08535,1.59425,0.09719,4.5E-04,5.2E-03
+Lung Squamous,Signature 13,Mutations per MB,1.05809,0.41440,1.51329,0.24393,7.0E-01,1.0E+00
+Lung Squamous,Signature 17,Mutations per MB,0.11904,0.07084,0.02659,0.00571,1.7E-01,6.5E-01
+Lung Squamous,Signature 26,Mutations per MB,0.51429,0.51429,0.00000,0.00000,1.0E+00,1.0E+00
+Lung Squamous,Signature R2,Mutations per MB,4.62329,2.21081,3.04345,0.30760,5.1E-01,1.0E+00
+Lung Squamous,Total substitutions,Mutations per MB,9.15238,2.35965,11.89683,0.85928,7.0E-01,1.0E+00
+Lung Squamous,C>A substitutions,Mutations per MB,3.81429,1.74827,4.19365,0.29675,7.0E-02,4.0E-01
+Lung Squamous,C>G substitutions,Mutations per MB,1.19048,0.34898,1.81786,0.16254,2.1E-01,6.9E-01
+Lung Squamous,C>T substitutions,Mutations per MB,2.57619,0.56488,3.52460,0.63923,7.8E-01,1.0E+00
+Lung Squamous,T>A substitutions,Mutations per MB,0.59048,0.13148,0.91905,0.04898,6.5E-01,1.0E+00
+Lung Squamous,T>C substitutions,Mutations per MB,0.78095,0.20815,1.11448,0.04204,9.7E-02,4.5E-01
+Lung Squamous,T>G substitutions,Mutations per MB,0.20000,0.05634,0.32718,0.01544,2.8E-02,2.1E-01
+Lung Squamous,Indels with overlapping microhomology,Mutations per MB,0.00952,0.00615,0.02063,0.00237,1.0E+00,1.0E+00
+Lung Squamous,Indels at mono/polynucleotide repeats,Mutations per MB,0.23333,0.11269,0.20417,0.01560,1.0E+00,1.0E+00
+Lung Squamous,Dinucleotide substitutions,Mutations per MB,0.20476,0.07678,0.32579,0.06649,9.0E-01,1.0E+00
+Lung Squamous,All indels,Mutations per MB,0.24286,0.11096,0.22480,0.01656,9.8E-01,1.0E+00
+Lung Squamous,Breakpoints,Breakpoints per MB,0.07695,0.00952,0.07488,0.00295,8.2E-01,1.0E+00
+Lung Squamous,Abberant,Fraction (between 0.00 and 1.00),0.56427,0.09474,0.67209,0.01563,6.0E-01,1.0E+00
+Lung Squamous,Ploidy,Number,2.82404,0.32147,2.83364,0.06538,9.0E-01,1.0E+00
+Lung Squamous,Purity,Fraction (between 0.00 and 1.00),0.54833,0.07250,0.49048,0.01194,5.2E-01,1.0E+00
+Lung Adenocarcinoma,Signature 1,Mutations per MB,0.66082,0.04185,0.70461,0.01996,1.6E-01,1.8E-01
+Lung Adenocarcinoma,Signature 2,Mutations per MB,0.52470,0.06115,1.57683,0.08854,3.6E-11,5.9E-11
+Lung Adenocarcinoma,Signature 4,Mutations per MB,0.76633,0.21964,7.48622,0.39776,3.4E-37,3.9E-36
+Lung Adenocarcinoma,Signature 5,Mutations per MB,0.29701,0.03378,0.89361,0.05912,5.3E-13,1.0E-12
+Lung Adenocarcinoma,Signature 6,Mutations per MB,0.00000,0.00000,0.12123,0.07109,1.0E+00,1.0E+00
+Lung Adenocarcinoma,Signature 13,Mutations per MB,0.37133,0.06480,1.27453,0.10508,4.4E-12,7.8E-12
+Lung Adenocarcinoma,Signature 17,Mutations per MB,0.02833,0.02833,0.01642,0.00991,1.0E+00,1.0E+00
+Lung Adenocarcinoma,Total substitutions,Mutations per MB,2.64590,0.29336,12.08529,0.53422,2.7E-31,1.2E-30
+Lung Adenocarcinoma,C>A substitutions,Mutations per MB,0.64975,0.12519,4.88070,0.24909,1.8E-37,3.9E-36
+Lung Adenocarcinoma,C>G substitutions,Mutations per MB,0.39796,0.05245,1.69038,0.08907,4.5E-25,1.5E-24
+Lung Adenocarcinoma,C>T substitutions,Mutations per MB,0.98622,0.07724,3.02473,0.12391,1.9E-23,5.5E-23
+Lung Adenocarcinoma,T>A substitutions,Mutations per MB,0.19129,0.03250,1.15470,0.05676,3.0E-35,2.3E-34
+Lung Adenocarcinoma,T>C substitutions,Mutations per MB,0.28089,0.02731,0.99728,0.04399,2.1E-26,8.1E-26
+Lung Adenocarcinoma,T>G substitutions,Mutations per MB,0.13978,0.01747,0.33751,0.01474,4.2E-14,1.1E-13
+Lung Adenocarcinoma,Indels with overlapping microhomology,Mutations per MB,0.02277,0.00397,0.04810,0.00303,1.3E-04,2.0E-04
+Lung Adenocarcinoma,Indels at mono/polynucleotide repeats,Mutations per MB,0.11377,0.01857,0.34563,0.01878,5.9E-14,1.4E-13
+Lung Adenocarcinoma,Dinucleotide substitutions,Mutations per MB,0.02536,0.00628,0.19802,0.01005,1.2E-31,6.9E-31
+Lung Adenocarcinoma,All indels,Mutations per MB,0.13654,0.02182,0.39373,0.02100,7.9E-14,1.7E-13
+Lung Adenocarcinoma,Breakpoints,Breakpoints per MB,0.05187,0.00550,0.05760,0.00202,1.6E-01,1.8E-01
+Lung Adenocarcinoma,Abberant,Fraction (between 0.00 and 1.00),0.48974,0.03450,0.59104,0.01323,9.0E-03,1.2E-02
+Lung Adenocarcinoma,Ploidy,Number,2.79810,0.11847,2.95422,0.04765,1.2E-01,1.5E-01
+Lung Adenocarcinoma,Purity,Fraction (between 0.00 and 1.00),0.45458,0.02232,0.45948,0.00893,6.9E-01,7.6E-01
+Lung Adenocarcinoma,Methylation,Deviation from average profile,0.05347,0.00164,0.06213,0.00089,4.5E-04,6.5E-04
+Larynx,Signature 1,Mutations per MB,0.98333,0.33041,0.68262,0.04515,3.8E-01,6.3E-01
+Larynx,Signature 2,Mutations per MB,1.15556,0.40448,1.20513,0.19292,6.2E-01,7.2E-01
+Larynx,Signature 4,Mutations per MB,0.18889,0.08635,3.82735,0.50551,4.5E-03,2.3E-02
+Larynx,Signature 5,Mutations per MB,0.99445,0.29533,3.04473,0.19950,1.1E-02,3.7E-02
+Larynx,Signature 13,Mutations per MB,0.37778,0.19957,0.56439,0.15571,9.5E-01,9.5E-01
+Larynx,Total substitutions,Mutations per MB,3.70000,0.43843,9.35812,0.65045,9.4E-03,3.7E-02
+Larynx,C>A substitutions,Mutations per MB,0.56111,0.06634,2.67009,0.24148,4.1E-03,2.3E-02
+Larynx,C>G substitutions,Mutations per MB,0.55556,0.12403,1.52877,0.17230,2.8E-02,7.0E-02
+Larynx,C>T substitutions,Mutations per MB,1.92222,0.28953,3.03390,0.19396,2.7E-01,4.9E-01
+Larynx,T>A substitutions,Mutations per MB,0.18889,0.02811,0.80399,0.06756,1.5E-03,1.5E-02
+Larynx,T>C substitutions,Mutations per MB,0.34444,0.03514,1.00741,0.06112,3.0E-04,6.0E-03
+Larynx,T>G substitutions,Mutations per MB,0.12778,0.06290,0.31396,0.02101,2.0E-02,5.7E-02
+Larynx,Indels with overlapping microhomology,Mutations per MB,0.06667,0.01721,0.05812,0.00531,6.4E-01,7.2E-01
+Larynx,Indels at mono/polynucleotide repeats,Mutations per MB,0.23333,0.06025,0.36268,0.03079,6.6E-01,7.2E-01
+Larynx,Dinucleotide substitutions,Mutations per MB,0.01667,0.01139,0.13704,0.01516,8.1E-02,1.8E-01
+Larynx,All indels,Mutations per MB,0.30000,0.06325,0.42080,0.03321,6.8E-01,7.2E-01
+Larynx,Breakpoints,Breakpoints per MB,0.05340,0.00405,0.05639,0.00251,6.3E-01,7.2E-01
+Larynx,Abberant,Fraction (between 0.00 and 1.00),0.67355,0.06982,0.57335,0.02254,4.1E-01,6.3E-01
+Larynx,Ploidy,Number,3.45453,0.50648,2.69224,0.08842,1.8E-01,3.6E-01
+Larynx,Purity,Fraction (between 0.00 and 1.00),0.45667,0.07338,0.52450,0.01689,5.9E-01,7.2E-01
